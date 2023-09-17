@@ -1,0 +1,16 @@
+book - kitab
+pen - qelem
+homework - evtapsirigi
+door - qapi
+phone - telefon
+home - ev
+car - masin
+sky - sema
+word - soz
+work - is
+blue - goy
+month - ay
+red - qirmizi
+green - yasil
+
+
